@@ -1,0 +1,11 @@
+{
+  "name": "govopps",
+  "description": "Search and navigate GovOpps for federal contracting and grant research.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Embersilk LLC"
+  },
+  "homepage": "https://govopps.us",
+  "license": "MIT",
+  "keywords": ["government", "contracting", "grants", "search"]
+}
